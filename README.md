@@ -33,16 +33,22 @@ Our sandbox environment demonstrates how biased (short-term) and unbiased (fairn
 ```bash
 git clone https://github.com/Aryan9001/Fairness_Toyworld.git
 cd Fairness_Toyworld
+```
 ###2. Create Virtual Environment
+```bash
 python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
 .venv\Scripts\activate      # Windows
+```
 ###3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 ###4. Run Agents
+```bash
 python -m src.run_toy --mode biased --episodes 10
 python -m src.run_toy --mode unbiased --episodes 10
-
+```
 Example Output
 
 Biased Agent
