@@ -67,7 +67,6 @@ Knowledge Graph transitions.
 Fairness metrics per run.
 
 Author
-
-Aryan Nandal (s224373399)
+Aryan Nandal
 Bachelor of Software Engineering (Honours), Deakin University
 Supervisor: Dr. Bahareh Nakisa
