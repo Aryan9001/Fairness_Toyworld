@@ -1,7 +1,7 @@
 # Fairness & Explainability in Agentic AI (ToyWorld RL)
 
 ## Overview
-This repository contains the implementation of a Fairness-aware, Explainable Reinforcement Learning environment designed as part of the SIT723/SIT792 Research Thesis at Deakin University.  
+This repository contains the implementation of a Fairness-aware, Explainable Reinforcement Learning environment designed as part of the SIT723 Research Thesis at Deakin University.  
 The project investigates how ethical components—fairness, explainability, and runtime oversight—can be embedded into Agentic AI systems for trustworthy governance.
 
 We extend the ideas from Peng et al. (NeurIPS 2022) on inherently explainable RL and operationalize fairness techniques inspired by Jabbari et al. (2017) and Deng et al. (2023).  
